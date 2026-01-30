@@ -16,5 +16,6 @@ var killErrors=function(value){return true};window.onerror=null;
 
 > 这里找到了网上流传的几份js文件 分为群内共享版和网站来源版本
 
+QQ交流群：208258019
 
 #### V10解密js 
